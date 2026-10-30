@@ -1,0 +1,20 @@
+#!/bin/bash
+
+
+echo "======================================="
+echo "Student Information"
+echo "======================================="
+echo "Name: Rolan"
+echo "Surname: Jumagulov"
+echo "Group: IT2-2314"
+echo "Student ID: 37125"
+echo "======================================="
+echo "System information"
+echo "======================================="
+echo "Username: $(whoami)"
+echo "Hostname: $(hostname)"
+echo "Current Date: $(date)"
+echo "Operating System: $"
+echo "Disk Usage: "
+echo "Memory Usage: "
+echo "======================================="
